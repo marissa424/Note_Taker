@@ -14,7 +14,7 @@ To install this project clone the code from the GitHub repository to your local 
 
 ## Usage
 * To view this application deployed on Heroku use the following link: https://app-note.herokuapp.com
-* To access this application in github use the following link:
+* To access this application in github use the following link: https://github.com/marissa424/Note_Taker
 
 ## Application Screenshot
 ![Test Screenshot](./public/assets/images/note1.jpg)
